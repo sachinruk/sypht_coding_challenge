@@ -7,3 +7,8 @@ In this task we tried two approaches.
 
 ## Date difference
 The main idea here was to convert any date to the number of days from 1/1/0000. Then a simple difference would give the number of days between.
+
+### Usage:
+```
+python date_diff.py --date1 23/03/2020 --date2 25/03/2020
+```
